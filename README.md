@@ -2,7 +2,7 @@
 
 Step by Step guide to solve this challenge. Can refer my YouTube video https://youtu.be/eJxeGaTBdH0
 
-#Task 1  
+# Task 1  
 Create a bucket   
 
 Navigation menu -> Storage ->Create Bucket        
@@ -12,7 +12,7 @@ Location -> us-east1
 Rest all value to default             
 Create        
 
-#Task 2
+# Task 2
 Create a Pub/Sub topic     
 
 Navigation menu -> Pub/Sub ->Create Topic               
@@ -20,7 +20,7 @@ Topic ID ->Jooli
 Encryption -> default             
 Create              
 
-#Task 3             
+# Task 3             
 Create a Cloud Function.             
 
 Navigation menu -> Cloud Functions -> Create function                  
@@ -136,7 +136,7 @@ Navigation menu ->Storage -> Click on the bucket you created
 Upload image downloaded                 
 Refresh Bucket -> you will notice thumbnail in the list       
 
-#Task 4                   
+# Task 4                   
 Remove the previous cloud engineer’s access from the memories project.              
 
 Navigation menu ->IAM & Admin
